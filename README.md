@@ -11,8 +11,6 @@ Example code used to automate version updates using Bitbucket Pipelines. Sample 
 * Summary of set up
 * Configuration
 * Dependencies
-* Database configuration
-* How to run tests
 * Deployment instructions
 
 ### Who do I talk to? ###
