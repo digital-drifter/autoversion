@@ -31,7 +31,7 @@ pipelines:
             - git config user.name "$USERNAME"
             - git config user.email "shane@get-paper.com"
             - git add package.json
-            - git commit -m "[skip CI]"
+            - git commit -m "[skip CI]" # Required to avoid re-running this CI upon git push
             - git push
             - declare -x VERSION=$(jq -r '.version' package.json)
             - echo $VERSION
