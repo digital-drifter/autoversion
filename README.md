@@ -1,5 +1,5 @@
 # autoversion
-Example code used to automate version updates using Bitbucket Pipelines. Sample of CI used in www.contractclub.ca
+Example code used to automate version updates using Bitbucket Pipelines. Sample of CI used in www.contractclub.ca. Go to https://bitbucket.org/Scfast/pipelines-autoversion to test out this set-up.
 
 ### What is this repository for? ###
 
@@ -17,3 +17,4 @@ Example code used to automate version updates using Bitbucket Pipelines. Sample 
 
 * Shane Fast
 * shane@get-paper.com
+* @shanecfast
