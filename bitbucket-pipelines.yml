@@ -4,7 +4,7 @@
 # -----
 # You can specify a custom docker image from Docker Hub as your build environment.
 image: 
-  name: shanepaper/nodejs-auto-version
+  name: shanepaper/autoversion
   username: shanepaper
   password: $DOCKER_PW
   email: shane@get-paper.com
