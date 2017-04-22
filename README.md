@@ -4,6 +4,8 @@ Example code used to automate version updates using Bitbucket Pipelines. Sample 
 ### What is this repository for? ###
 
 * A quick example of how to use pipelines to automate version upgrades
+* updates the patch version in package.json file
+* automatically tags the commit with the updated version number
 * Version - 0.0.n where n is determined by how many times pipelines is run
 
 ### How do I get set up? ###
