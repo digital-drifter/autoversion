@@ -19,3 +19,4 @@ Example code used to automate version updates using Bitbucket Pipelines. Sample 
 * Shane Fast
 * email: shane@get-paper.com
 * twitter: @shanecfast
+* see https://medium.com/@shanecfast/automate-versioning-using-bitbucket-pipelines-nodejs-220d2a4c3168 for additional info
