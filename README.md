@@ -10,13 +10,12 @@ Example code used to automate version updates using Bitbucket Pipelines. Sample 
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Deployment instructions
+* clone/copy this repo into your own repository
+* clone/copy the docker image: https://hub.docker.com/r/shanepaper/autoversion/
+* In bitbucket - go to settings > Environment Variables and set the variables to match your own credentials
 
 ### Who do I talk to? ###
 
 * Shane Fast
-* shane@get-paper.com
-* @shanecfast
+* email: shane@get-paper.com
+* twitter: @shanecfast
